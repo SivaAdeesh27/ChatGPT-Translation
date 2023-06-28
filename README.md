@@ -2,9 +2,9 @@
 
 There are two datasets :
 
-World news data
+- World news data(in english)
 
-Book data
+- Book data(in mauritian creole)
 
 The world news data contains data in english (source) and that has to be translated in mauritian creole (target).The code is available in the World news data folder that does the process.
 
